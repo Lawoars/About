@@ -20,6 +20,11 @@
 	            <li>HTML</li>
 	            <li>CSS</li>
 	        </ul>
+		<p>Education</p>
+		<ul>
+			<li>Master in Applied Mathematics</li>
+			<li>Master in Marketing</li>
+		</ul>
 	    </div>
 	    <div id="footer">
 	    
