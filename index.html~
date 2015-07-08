@@ -33,7 +33,12 @@
 			<li>Photo page</li>
 		</ul>
 		<p>Skills</p>
-		<ul></ul>
+		<ul>
+			<li>Requirements analysis</li>
+			<li>Specifications writing</li>
+			<li>Product features creating</li>
+		</ul>
+
 	    </div>
 	    <div id="footer">
 	    <div id="contact"><br/><strong>Contact Me!</strong></div>
